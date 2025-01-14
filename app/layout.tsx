@@ -5,7 +5,7 @@ import type { Metadata, Viewport } from 'next';
 
 export const metadata: Metadata = {
   title: {
-    default: 'LiveKit Meet | Conference app build with LiveKit open source',
+    default: 'Reconvin Meet | Build your own video conferencing app with no code',
     template: '%s',
   },
   description:
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         type: 'image/png',
       },
     ],
-    siteName: 'LiveKit Meet',
+    siteName: 'Reconvin Meet',
   },
   icons: {
     icon: {
